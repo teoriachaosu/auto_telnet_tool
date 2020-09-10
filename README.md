@@ -23,4 +23,4 @@ The default log file is a result of running the exe file with the default conten
 The app was developed and tested on ASUS routers RT-N66U, RT-AC52U_B1.
 There's no guarantee it will work with routers of other vendors.
 
-Copyright (c) 2020 Maciej Białowąs, MIT License 
+
