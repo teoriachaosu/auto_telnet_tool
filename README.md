@@ -18,7 +18,7 @@ Run the auto_telnet_tool.exe to apply your settings.
 
 The router output and operations performed are logged to session_log.txt 
 If there's no log file in the app directory, it will be created on the first run.
-The log file present is a result of running the exe file with the default contents. 
+The default log file is a result of running the exe file with the default contents. 
 
 The app was developed and tested on ASUS routers RT-N66U, RT-AC52U_B1.
 There's no guarantee it will work with routers of other vendors.
