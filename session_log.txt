@@ -1,0 +1,31 @@
+
+Session started: 29-07-2020 20:08:15
+Connecting to router...
+Logging in...
+RT-N66U login: s0m3_l0g1n
+Password: 
+s0m3_l0g1n@RT-N66U:/tmp/home/root# cat /proc/version
+Linux version 2.6.22.19 (root@asus) (gcc version 4.2.3) #1 Fri Jun 22 14:17:17 CST 2018
+s0m3_l0g1n@RT-N66U:/tmp/home/root# cat /proc/cpuinfo
+system type             : Broadcom BCM5300 chip rev 1 pkg 0
+processor               : 0
+cpu model               : MIPS 74K V4.9
+BogoMIPS                : 299.82
+wait instruction        : no
+microsecond timers      : yes
+tlb_entries             : 64
+extra interrupt vector  : no
+hardware watchpoint     : yes
+ASEs implemented        : mips16 dsp
+shadow register sets    : 1
+VCED exceptions         : not available
+VCEI exceptions         : not available
+
+unaligned_instructions  : 0
+dcache hits             : 2147483648
+dcache misses           : 0
+icache hits             : 2147483648
+icache misses           : 0
+instructions            : 2147483648
+s0m3_l0g1n@RT-N66U:/tmp/home/root#
+--End of session--

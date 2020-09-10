@@ -1,0 +1,8 @@
+/// Get some information about your router system and CPU (example)
+cat /proc/version
+cat /proc/cpuinfo
+
+reboot
+/// reboot won't be executed, empty line ends file reading.
+/// Replace the contents of this file with your own commands.
+

@@ -1,0 +1,22 @@
+/// Default router prompts come from ASUS RT-N66U router. 
+/// Replace the defaults with your router's values.
+/// Do not change the order of data, remove '///' or leave empty line.
+/// Adjust read time to your router's response time (default should work fine).
+///
+/// ip: 
+192.168.1.1
+/// port: 
+23
+/// read timeout [s] (time to wait for router's response): 
+0.4
+/// username:
+s0m3_l0g1n
+/// password:
+s0m3_p4ssw0rd
+/// router config prompt: 
+s0m3_l0g1n@RT-N66U:/tmp/home/root#
+/// router login prompt:
+RT-N66U login:
+/// router password prompt: 
+Password:
+
