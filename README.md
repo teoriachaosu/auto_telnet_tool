@@ -3,14 +3,12 @@ A script to automate ASUS router configuration via telnet.
 Compatibility: Windows 10, 7 (x64 only), ASUS routers.
 
 router_login.txt
-================
 Replace the defaults with your router's values.
 Default router prompts come from ASUS RT-N66U router. 
 Do not change the order of data, remove '///' or leave empty line.
 Adjust read timeout to your router's response time if necessary.
 
 router_setup.txt
-================
 Enter commands for the router to execute.
 Lines starting with '///' are ignored and file reading continues.
 An empty line stops file reading and can be used to quickly disable the entire block of commands.
