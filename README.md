@@ -14,7 +14,7 @@ router_setup.txt
 Enter commands for the router to execute.
 Lines starting with '///' are ignored and file reading continues.
 An empty line stops file reading and can be used to quickly disable the entire block of commands.
-Run the auto_telnet_tool.exe to apply your settings.
+Run the auto_telnet_tool.exe (or auto_telnet_tool.py in Python IDE) to apply your settings.
 
 The router output and operations performed are logged to session_log.txt 
 If there's no log file in the app directory, it will be created on the first run.
