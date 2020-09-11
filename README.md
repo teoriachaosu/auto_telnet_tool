@@ -1,5 +1,5 @@
 <b>Auto Telnet Tool for Windows</b></br>
-A script to automate ASUS router configuration via telnet.
+A scripting tool to automate ASUS router configuration via telnet.
 Compatibility: Windows 10, 7 (x64 only), ASUS routers.
 
 <b>router_login.txt</b></br>
